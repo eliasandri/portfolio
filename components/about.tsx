@@ -19,30 +19,75 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        I am a <span className="font-medium">28-year-old professional</span>{" "}
+        based in <span className="font-medium">Reykjavik, Iceland</span>, with a
+        diverse background that blends{" "}
+        <span className="font-medium">finance</span>,{" "}
+        <span className="font-medium">technology</span>, and{" "}
+        <span className="font-medium">fitness coaching</span>. My career journey
+        reflects a strong commitment to{" "}
+        <span className="font-medium">continuous learning</span>, personal
+        growth, and making a meaningful impact on both{" "}
+        <span className="font-medium">individuals</span> and{" "}
+        <span className="font-medium">society</span>.
+      </p>
+
+      <p className="mb-3">
+        With an <span className="font-medium">M.Sc. in Finance</span> from{" "}
+        <span className="font-medium">ESADE</span>, a{" "}
+        <span className="font-medium">B.Sc. in Business Administration</span>{" "}
+        with a minor in <span className="font-medium">Computer Science</span>{" "}
+        from <span className="font-medium">Reykjavik University</span>, and
+        additional certifications in{" "}
+        <span className="font-medium">Financial Management</span> and{" "}
+        <span className="font-medium">Frontend Development</span>, I possess a
+        solid foundation in financial analysis, corporate finance, and
+        technological solutions. My professional experiences at{" "}
+        <span className="font-medium">Deloitte Iceland</span> and{" "}
+        <span className="font-medium">Mar Advisors</span> have honed my skills
+        in financial consulting, valuations, investor presentations, and
+        corporate finance, enabling me to deliver data-driven insights and
+        strategic recommendations.
+      </p>
+
+      <p className="mb-3">
+        Parallel to my corporate career, I am deeply passionate about{" "}
+        <span className="font-medium">sports</span> and{" "}
+        <span className="font-medium">personal development</span>. Having
+        practiced various sports throughout my life, I currently coach and train
+        at a <span className="font-medium">functional fitness gym</span>, where
+        I lead <span className="font-medium">CrossFit classes</span> for
+        individuals of all ages and abilities. This role not only fuels my
+        enthusiasm for health and fitness but also strengthens my leadership,
+        motivational, and communication skills.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        Outside of work, I am an avid reader with a keen interest in{" "}
+        <span className="font-medium">finance</span>,{" "}
+        <span className="font-medium">technology</span>, and{" "}
+        <span className="font-medium">self-development literature</span>. I am
+        fascinated by topics that explore the intricacies of the human mind and
+        soul, always seeking new perspectives to enhance self-understanding and
+        personal growth.
+      </p>
+
+      <p>
+        Driven by a desire to create impactful contributions to society and help
+        others improve, I strive to blend my{" "}
+        <span className="font-medium">financial acumen</span>,{" "}
+        <span className="font-medium">technical expertise</span>, and{" "}
+        <span className="font-medium">coaching experience</span> to inspire
+        positive change and support both organizational goals and individual
+        aspirations.
+      </p>
+
+      <p>
+        <span className="italic">My journey is a continuous evolution,</span>{" "}
+        always aiming to expand my skills and make a lasting impact.{" "}
+        <span className="underline">I believe in the power of growth</span>,
+        both professionally and personally, as a means to contribute
+        meaningfully to the world around me.
       </p>
     </motion.section>
   );
