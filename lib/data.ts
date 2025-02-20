@@ -95,7 +95,7 @@ export const experiencesData = [
     title: "Fitness Coach",
     location: "Mjölnir & Grandi 101, Reykjavík, Iceland",
     description:
-      "I coach a variety of fitness classes, including high-intensity functional training, strength-focused sessions, Olympic weightlifting, and beginner-friendly functional fitness classes that emphasize fundamental movements without complex lifts or gymnastics.",
+      "I coach a variety of fitness classes, including high-intensity functional training, strength-focused sessions, Olympic weightlifting, and beginner-friendly functional fitness classes that emphasize fundamental movements without complex lifts or gymnastics. In addition to these group classes, I offer personalized training sessions tailored to each discipline, ensuring individualized attention and support to help clients achieve their specific fitness goals.",
     icon: React.createElement(FaDumbbell),
     date: "January 2023 – Present",
   },

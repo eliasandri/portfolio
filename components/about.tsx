@@ -56,7 +56,7 @@ export default function About() {
         <span className="font-medium">personal development</span>. Having
         practiced various sports throughout my life, I currently coach and train
         at a <span className="font-medium">functional fitness gym</span>, where
-        I lead <span className="font-medium">CrossFit classes</span> for
+        I lead <span className="font-medium">a variety of classes</span> for
         individuals of all ages and abilities. This role not only fuels my
         enthusiasm for health and fitness but also strengthens my leadership,
         motivational, and communication skills.
